@@ -38,3 +38,4 @@ The model takes the following machine sensor values as input:
 1. Install required Python libraries:
    ```bash
    pip install pandas scikit-learn joblib
+   python predict.py
